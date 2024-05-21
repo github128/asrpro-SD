@@ -1,4 +1,5 @@
 搬用 arduino SD卡程序 使用softspi模拟实现  修改send recv begin 
+引脚 vcc->vcc 5v ; gnd ->gnd ; cs 2 mosi 3 sck 5 miso 6
 
 
 将 SD2 文件夹放入 D:\天问Block\asrpro\myLib下 
